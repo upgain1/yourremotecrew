@@ -1886,7 +1886,7 @@
           "_customTemplate": true,
           "_afterNavbarItem": false,
           "_customHTML": "<!-- Calendly inline widget begin -->\n<div class=\"calendly-inline-widget\" data-url=\"https://calendly.com/yourremotecrew/kickoff-call\" style=\"min-width:320px;height:630px;\"></div>\n[JS_CODE_0]\n<!-- Calendly inline widget end -->",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 40px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customCSS": "/* Type valid CSS here */\ndiv {\n  padding:17px;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
           "alias": "code-editor",
           "_tags": [
             "Extension"

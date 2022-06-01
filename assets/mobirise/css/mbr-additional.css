@@ -907,7 +907,7 @@ a:hover {
 }
 @media (min-width: 992px) {
   .cid-sXT21XmgXk .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 4.3rem);
   }
 }
 .cid-sXT21XmgXk .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1195,7 +1195,6 @@ a:hover {
 }
 @media (min-width: 992px) {
   .cid-sXT21XmgXk .tel-menu {
-    margin-right: 48px;
     margin-left: auto;
     order: 49;
   }
